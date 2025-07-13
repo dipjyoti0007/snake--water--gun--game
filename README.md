@@ -13,7 +13,3 @@ A simple and fun **Python terminal game** based on the classic *Snake, Water, Gu
 
 ---
 
-## 🚀 How to Run
-
-```bash
-python snake_water_gun.py
